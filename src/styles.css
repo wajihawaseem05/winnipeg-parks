@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#button {
+  background-color: #32a2ce;
+}
+
+.title {
+  background-color: #7de2a7;
+}
+
+.searchBox #button.clickedButton {
+  background-color: rgb(134, 224, 206);
+}
